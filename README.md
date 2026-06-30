@@ -191,3 +191,7 @@ int[]    processIDs   = {1, 2, 3};
 
 Built as part of the CSEN 602 Operating Systems course, Spring 2026.
 
+<img width="1276" height="802" alt="Screenshot 2026-06-30 at 11 01 58 PM" src="https://github.com/user-attachments/assets/4a816db6-d46b-41a4-aa9a-ed88cfbf46d9" />
+<img width="1274" height="804" alt="Screenshot 2026-06-30 at 11 02 31 PM" src="https://github.com/user-attachments/assets/3a8fae6d-4f90-4cdc-9c5f-878d673445c3" />
+<img width="1275" height="806" alt="Screenshot 2026-06-30 at 11 03 59 PM" src="https://github.com/user-attachments/assets/57b539ef-dcba-4cdc-8ea8-ab7333a0ae9a" />
+
